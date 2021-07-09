@@ -1,0 +1,11 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: var(--Dark-cyan);
+  background-image: url(images/top.svg);
+  background-size: cover;
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position-y: 50%;
+  background-position-x: -78%;
+}

@@ -1,0 +1,11 @@
+.over{
+  position: absolute;
+  background-image: url(images/bottom.svg);
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-size: 70%;
+  background-repeat: no-repeat;
+  background-position-y: -110%;
+  background-position-x: 166%;
+}
