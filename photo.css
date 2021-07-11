@@ -1,0 +1,15 @@
+.photo{
+  background-image: url(images/victor.jpg); 
+  height: 70px; 
+  width: 70px; 
+  border-radius: 100%; 
+  border: 5px solid #fff;
+}
+@media screen and (max-width: 375px) {
+  .photo{ 
+    margin-left: 7px;
+    height: 100px;
+    width: 100px;
+
+  }
+}

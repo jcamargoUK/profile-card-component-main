@@ -1,0 +1,14 @@
+@media screen and (max-width: 375px) {
+  .main{
+    height: 350px;
+    width: 330px;
+  }
+  .container{
+    margin-top: 139px;
+  }
+  
+  .container2{
+    margin-top: 145px;
+  }
+
+}

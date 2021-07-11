@@ -3,7 +3,12 @@
   display: flex;
   flex-direction: column;
   margin-bottom: 0;
-  top: -50px;
+  top: -56px;
   left: 90px;
   align-items: center;
+}
+@media screen and (max-width: 375px){
+  .container1{
+    margin-left: 15px;
+  }
 }

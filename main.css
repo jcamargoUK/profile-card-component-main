@@ -7,6 +7,5 @@
   left: 50%;
   transform: translate(-50%, -50%);
   background-color: #fff;
-  background-image: url(images/card.svg);
-  
+  background-image: url(images/card.svg); 
 }
